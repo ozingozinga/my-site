@@ -1,4 +1,4 @@
-var content= "Hailey's Home" // 사용할 문구
+var content= "Hgis Home" // 사용할 문구
 var text = document.querySelector('#typing-text')
 var index = 0; // 문자열 인덱스
 
